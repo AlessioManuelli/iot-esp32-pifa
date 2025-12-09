@@ -6,6 +6,7 @@ Progetto universitario di **Internet of Things (IoT)**.
 Sviluppo di un sistema IoT basato su due **schede ESP32** con comunicazione **Bluetooth**.  
 - Una scheda (client) legge sensori ambientali.  
 - L'altra (server) visualizza i dati su un **display**.  
+
 Progettazione e simulazione di un’antenna **PIFA** utilizzando Qsys.
 
 ## Strumenti
